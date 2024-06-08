@@ -14,8 +14,9 @@ Welcome to my GitHub! I'm Brock, just a guy who loves coding and solving problem
 
 ## 🌟 About Me
 
-🎓 **Autodidact Extraordinaire**  
-I'm a self-taught tech enthusiast with a deep dive into:
+🎓 **Tech Explorer and Self-Taught Developer**
+
+Skilled in:
 
 - Various Programming Languages
 - Full-Stack Engineering
@@ -81,6 +82,7 @@ I have a keen interest in cybersecurity and enjoy implementing secure coding pra
 
 ---
 
+<!--
 ## 📈 GitHub Stats
 
 ![Brock's GitHub stats](https://github-readme-stats.vercel.app/api?username=bramz&show_icons=true&theme=radical)
@@ -88,6 +90,7 @@ I have a keen interest in cybersecurity and enjoy implementing secure coding pra
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bramz&langs_count=8)
 
 ---
+-->
 
 ## 🎉 Fun Facts
 
