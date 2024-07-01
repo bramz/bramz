@@ -70,15 +70,36 @@ I have a keen interest in cybersecurity and enjoy implementing secure coding pra
 
 ## 🌟 Professional Highlights
 
-### **Hunger Solutions of New York Management System**
+### **Hunger Solutions of New York (HSNY) and Office of Temporary and Disability Assistance (OTDA) Contract Management System**
 
-🚀 A comprehensive financial and outreach management system designed to streamline operations and enhance efficiency.  
+🚀 A comprehensive financial contract management system, developed to streamline operations and enhance efficiency. Tailored to meet the specific needs of HSNY and OTDA's EBT/SNAP nutritional assistance programs. The system includes logical solutions for handling documents, managing outreach programs, allocating budgets, and processing vouchers.
 🔧 **Tech Stack**: Angular, Express.js, MySQL, Linux
+
+ ### **SNAP Eligibility Tool**
+ 
+🚀 A SNAP eligibility tool for HSNY, built with ASP.NET, assisting users in determining their eligibility for nutritional assistance programs.
 
 ### **Apexiem Title Search Software**
 
-🚀 Innovative software managing orders, workflows, and invoices for improved remote work efficiency.  
+🚀 Innovative software that manages orders, workflows, and invoices to enhance remote work efficiency. While primarily focused on New York State properties, it is designed with multi-state functionality to support growth potential.
 🔧 **Tech Stack**: Angular, Express.js, MySQL, Linux
+
+### **Gridpaste.io**
+
+🚀 Gridpaste is an online math tool designed for sharing computations, transformations, and annotations on geometric structures within a coordinate plane. Users begin with a clean board, where they can place geometric elements and perform actions in a recordable sequence. These sequences can be saved and shared via a unique URL with colleagues or instructors. I re-engineered the backend of Gridpaste using Django, enhancing its stability and scalability to support a growing user base.
+🔧 Tech Stack: Django, Python, JavaScript
+
+### **Eastwind Lobster**
+
+🚀 A landing page built to promote Eastwind Lobster, featuring an intuitive design that highlights the restaurant's menu, location, and special events. It aims to attract customers and provide essential information in a user-friendly format.
+🔧 Tech Stack: HTML, CSS, JavaScript
+
+### **BrockRamsey.com**
+
+🚀 A personal portfolio site showcasing my projects, skills, and professional experience. It serves as a central hub for potential clients and employers to learn about my work, view my portfolio, and get in touch with me. The site also features a tech blog where I share insights, tutorials, and experiences from my journey in the tech industry. Additionally, it highlights various personal projects and hobbies that I undertake for self-teaching and to share my interests with anyone interested. The design is clean, professional, and easy to navigate, reflecting my dedication to quality and attention to detail.
+🔧 Tech Stack: Angular, Django
+
+
 
 ---
 
@@ -94,11 +115,11 @@ I have a keen interest in cybersecurity and enjoy implementing secure coding pra
 
 ## 🎉 Fun Facts
 
-- 🏀 I enjoy sports, especially football, basketball, and hockey.
-- 🌍 I love exploring new places and going on adventures.
-- 🎨 In my downtime, I enjoy painting and writing.
-- 🎢 I'm always up for something fun and exciting!
+- 🏀 I enjoy playing and watching sports, especially football, basketball, and hockey.
+- 🌍 I love exploring new places and going on adventures. To balance a tech-heavy life, I enjoy the peaceful ambiance of nature.
+- 🎨 In my downtime, I enjoy writing, fishing, art and music.
+- 🎢 I'm always up for fun, creative, and exciting activities.
 
 ---
 
-Feel free to explore my repositories, reach out for collaborations, or connect with me on LinkedIn. Let's build something amazing together!
+Feel free to explore my repositories, reach out for collaborations, or connect with me via Email, LinkedIn, or Discord. Let's vibe out, and build something great together!
