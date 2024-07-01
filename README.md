@@ -18,12 +18,12 @@ Welcome to my GitHub! I'm Brock, just a guy who loves coding and solving problem
 
 Skilled in:
 
-- Various Programming Languages
-- Full-Stack Engineering
-- Software Development
-- Database Administration
-- Cryptography & Information Security
-- DevOps & Cloud Computing
+- **Programming Languages:** Proficient in Python, Go, JavaScript/TypeScript, PHP and Perl. ***Languages I'd Like to Learn:*** Rust, Kotlin, Java, C, C++ and C#
+- **Full-Stack Engineering:** Angular, React, Django, Express, NestJS, ASP.NET, Laravel, Codeigniter and various lesser-known web frameworks.
+- **Software Development:** Solid understanding of software development lifecycle (SDLC) methodologies, including Agile and Scrum. Experienced in version control systems (Git), code reviews, and continuous integration/continuous deployment (CI/CD) practices.
+- **Database Administration:** Management, designing, and implementing relational and non-relational databases. **SQL:** MySQL, MSSQL, PostgreSQL and SQLite &amp; **NO-SQL:** MongoDB, CouchDB, Redis
+- **Cryptography & Information Security:** Knowledge of encryption algorithms, secure coding practices and protocols. Handling security assessments, vulnerability analysis, and implementing robust security measures.
+- **DevOps & Cloud Computing:** Utilization of cloud platforms like AWS, GCP, and Azure. Versed in automating infrastructure with tools like Docker, Kubernetes, and Terraform. Setting up CI/CD pipelines using tools like Jenkins, Travis and GitLab CI/CD.
 
 <!-- 🔒 **Security Enthusiast**  
 I have a keen interest in cybersecurity and enjoy implementing secure coding practices to safeguard applications and data. -->
